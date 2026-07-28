@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://nin-lay-1.vercel.app/sitemap.xml
+Sitemap: https://nin-lay-1-olive.vercel.app/sitemap.xml
